@@ -20,5 +20,6 @@ return a+b+c;
        System.out.println(two_value_sum);
        three_value_sum = a.sum(1,10,15);
        System.out.println(three_value_sum);
+	   System.out.println("test");
    }
 }
